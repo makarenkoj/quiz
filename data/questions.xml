@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <questions>
-  <question minutes="5">
+  <question seconds="5">
     <text>Сколько байт в килобайте?</text>
     <variants>
       <variant>1000</variant>
@@ -10,7 +10,7 @@
       <variant>512</variant>
     </variants>
   </question>
-  <question minutes="5">
+  <question seconds="5">
     <text>В каком году Гагарин полетел в космос?</text>
     <variants>
       <variant>1984</variant>
@@ -19,7 +19,7 @@
       <variant>2000</variant>
     </variants>
   </question>
-  <question minutes="5">
+  <question seconds="5">
     <text>Сколько дней в высокосном году?</text>
     <variants>
       <variant>200</variant>
